@@ -47,7 +47,7 @@ touch with them directly if you have any inquiries._
 - **Communication channel**:
   [Slack](https://join.slack.com/t/alphaonelabs/shared_invite/zt-7dvtocfr-1dYWOL0XZwEEPUeWXxrB1A)
 - **Project Ideas**:
-  [link](https://github.com/alphaonelabs/education-website/wiki/GSOC-2025-Ideas-Refined)
+  [link](https://github.com/alphaonelabs/alphaonelabs-education-website/wiki/GSOC-2026-Ideas)
 
 ### ArxLang/IRx
 
@@ -59,9 +59,31 @@ touch with them directly if you have any inquiries._
 - **Communication channel**: [Discord](https://arxlang.org/discord)
 - **Project Ideas**: [link](https://github.com/arxlang/irx/wiki/Project-Ideas)
 
+### Hiperhealth
+
+- **Description**: Hiperhealth provides a set of tools and libraries for health
+  care services empowered by AI. It includes screening, diagnosis, treatments,
+  prescriptions, clinical records, etc.
+- **Project WEB Page**: <https://hiperhealth.github.io/hiperhealth/>
+- **Repository**: <https://github.com/hiperhealth/hiperhealth>
+- **Communication channel**: [Discord](https://discord.gg/Nu4MdGj9jB)
+- **Project Ideas**: [link](https://github.com/sdx-org/sdx/wiki/Project-Ideas)
+
+### Sugar (swarm-external-secrets)
+
+- **Description**: swarm-external-secrets is a Docker plugin that bridges
+  external secrets management systems with Docker Swarm's native secrets
+  infrastructure.
+- **Project WEB Page**: <https://sugar-org.github.io/swarm-external-secrets/>
+- **Repository**: <https://github.com/sugar-org/swarm-external-secrets>
+- **Communication channel**: [Discord](https://discord.gg/4NYdBu7bZy)
+- **Project Ideas**:
+  [link](https://github.com/sugar-org/swarm-external-secrets/wiki/Project-Ideas)
+
+<!--
 ### Extralit
 
-- **Description**: Extralit is an open-source platform for researchers to
+- **Description**: Extralit is an open-source tool for researchers to
   extract structured data from scientific literature. It combines advanced
   document AI with collaborative human validation workflows to create
   analysis-ready datasets fit-for-purpose to any scientific domain, enabling
@@ -69,24 +91,7 @@ touch with them directly if you have any inquiries._
 - **Project WEB Page**: <https://docs.extralit.ai/>
 - **Repository**: <https://github.com/extralit/extralit>
 - **Communication channel**:
-  [Slack](https://join.slack.com/t/extralit/shared_invite/zt-32blg3602-0m0XewPBXF7776BQ3m7ZlA)
+  [Slack](https://join.slack.com/t/extralit/shared_invite/zt-3gw1ah8bl-AiVNrkIVYOL4yVGOxN8WFw)
 - **Project Ideas**:
-  [link](https://github.com/extralit/extralit/wiki/GSoC-Project-Ideas-2025)
-
-### PyDataStructs
-
-- **Description**: PyDataStructs project aims to be a Python package for various
-  data structures and algorithms (including their parallel implementations).
-- **Project WEB Page**: <https://pydatastructs.readthedocs.io/en/latest/>
-- **Project Ideas**:
-  [link](https://github.com/codezonediitj/pydatastructs/wiki/Google-Summer-of-Code-Project-Ideas)
-
-### SDX
-
-- **Description**: SDX provides a set of tools and libraries for health care
-  services empowered by AI. It includes screening, diagnosis, treatments,
-  prescriptions, clinical records, etc.
-- **Project WEB Page**: <https://sdx-org.github.io/sdx/>
-- **Repository**: <https://github.com/sdx-org/sdx>
-- **Communication channel**: [Discord](https://discord.gg/Nu4MdGj9jB)
-- **Project Ideas**: [link](https://github.com/sdx-org/sdx/wiki/Project-Ideas)
+  [link](https://github.com/extralit/extralit/wiki/GSoC-Project-Ideas-2025) (postponed for 2026)
+-->
